@@ -2,7 +2,7 @@
 
 Z zasady niewiele się tu dzieje
 
-[link do strony](kibryt.github.io)
+[link do strony](https://kibryt.github.io)
 <!--
 **kibryt/kibryt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
